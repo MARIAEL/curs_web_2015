@@ -1,0 +1,30 @@
+.container padded{
+    padding: 100px 0;
+  }
+
+  /* blog start */
+  .sidebar{
+    background-color: #e9e6df;
+  }
+  .sidebar h3{
+    color: #4b8575;
+    background-color: #e9e6df;
+  }
+  .btn-default {
+    color: #333;
+    background-color: #E7E7FC;
+    border-color: #ccc;
+}
+  .blog h1 a{
+    color: #4b8575;
+  }
+  .blog hr{
+    border-top-color: #4b8575;
+  }
+  .blog p a{
+    color: #ed7337;
+  }
+  .pagination li a{
+    color: #4b8575;
+  }
+ /* blog end */
